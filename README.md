@@ -1,6 +1,6 @@
 # Feature Selection using Swarm Intelligence Techniques
 
-A machine learning project that applies **Dispersive Flies Optimization (DFO)** and **Particle Swarm Optimization (PSO)** for feature selection on a high-dimensional swarm behaviour dataset, with the goal of reducing dimensionality while improving classification accuracy.
+A machine learning project that applies **Dispersive Flies Optimization (DFO)** and **Particle Swarm Optimization (PSO)** for feature selection on a high-dimensional dataset, with the goal of reducing dimensionality while improving classification accuracy.
 
 ---
 
