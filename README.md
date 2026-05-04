@@ -107,7 +107,7 @@ High-dimensional datasets present a significant challenge in machine learning - 
 | Neural Network | 89.43% | **89.12%** | -0.31% |
 
 ### Key Takeaways
-- DFO with `thres=0.7` achieved the strongest dimensionality reduction (~86%), selecting only 335 features from 2,400
+- DFO achieved the strongest dimensionality reduction (~86%), selecting only 335 features from 2,400
 - PSO achieved ~51% reduction, selecting 1,170 features from 2,400
 - DFO showed the largest accuracy gains for linear models (Logistic Regression: +1.83%, SVM: +1.98%)
 - Tree-based models (Decision Tree, Random Forest) were largely unaffected by either algorithm
@@ -126,8 +126,6 @@ High-dimensional datasets present a significant challenge in machine learning - 
 | Binary Threshold | 0.7 | 0.5 |
 | Selected Features | 335 | 1,170 |
 | Dimensionality Reduction | ~86% | ~51% |
-| Complexity | Lower | Higher |
-| Convergence Speed | Fast | Moderate |
 
 ---
 ## Research Papers & Resources
